@@ -17,7 +17,7 @@ The analysis starts with exploratory data analysis (EDA) and progresses into adv
 - Customer reporting
 - Product reporting
 ## Project Roadmap
-project-roadmap.png
+![Project Roadmap](docs/project-roadmap.png)
 The project follows two major analytical stages:
 ### 1. Exploratory Data Analysis (EDA)
 The EDA stage focuses on understanding the database, dimensions, dates, key metrics, distributions, and rankings.
